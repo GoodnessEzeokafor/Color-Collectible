@@ -5,7 +5,7 @@ export default class Navbar extends Component {
         return (
             <nav class="navbar navbar-expand-lg navbar-dark primary-color">
 
-            <a class="navbar-brand">Color Token</a>
+            <a class="navbar-brand">MyCrib Token</a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
             aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
